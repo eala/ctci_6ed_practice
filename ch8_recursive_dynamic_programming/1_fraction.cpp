@@ -33,5 +33,6 @@ int main()
         const int checkInt = 6;
         for (int i = 0; i < checkInt; ++i)
             printf("fraction(%d) = %d\n", i, fraction(i));
-	return 0;
+	
+        return 0;
 }
